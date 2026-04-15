@@ -1,5 +1,6 @@
-<img src=""C:\Users\bhara\Downloads\ChatGPT Image Apr 15, 2026, 11_38_29 PM.png"" width="100%" />
-<h1 align="center">Hi 👋, I'm Bharat Salve</h1>
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p><h1 align="center">Hi 👋, I'm Bharat Salve</h1>
 
 <p align="center">
 SRE Aspirant | Linux Enthusiast | Full-Stack Developer
